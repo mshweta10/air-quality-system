@@ -1,2 +1,3 @@
 # air-quality-system
-this is my first repository.<br> author-madhu shweta kumari
+This is my first repository.<br>
+ author-Madhu shweta kumari
